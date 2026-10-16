@@ -1,0 +1,125 @@
+{
+  "provider": "chatgpt-oauth",
+  "apiKey": "",
+  "model": "gpt-5.6-sol",
+  "maxIterations": 20,
+  "enableWebSearch": true,
+  "modelCatalog": {
+    "entries": [
+      {
+        "provider": "chatgpt-oauth",
+        "identity": "94caadf13b9bb992490ebfb38ce2cdabbfd39020b3c0cecbe661231d574de052",
+        "fetchedAt": 1791947790143,
+        "models": [
+          {
+            "value": "gpt-6.1-sol",
+            "label": "GPT-6.1-Sol",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max",
+              "ultra"
+            ],
+            "defaultReasoningEffort": "low",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-6-astra",
+            "label": "GPT-6-Astra",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max",
+              "ultra"
+            ],
+            "defaultReasoningEffort": "low",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-6-sol",
+            "label": "GPT-6-Sol",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max",
+              "ultra"
+            ],
+            "defaultReasoningEffort": "medium",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-6-luna",
+            "label": "GPT-6-Luna",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max"
+            ],
+            "defaultReasoningEffort": "medium",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-5.6-sol",
+            "label": "GPT-5.6-Sol",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max",
+              "ultra"
+            ],
+            "defaultReasoningEffort": "low",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-5.6-terra",
+            "label": "GPT-5.6-Terra",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max",
+              "ultra"
+            ],
+            "defaultReasoningEffort": "medium",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          },
+          {
+            "value": "gpt-5.6-luna",
+            "label": "GPT-5.6-Luna",
+            "reasoningEfforts": [
+              "low",
+              "medium",
+              "high",
+              "xhigh",
+              "max"
+            ],
+            "defaultReasoningEffort": "medium",
+            "supportsReasoningSummary": true,
+            "supportsParallelTools": true
+          }
+        ]
+      }
+    ],
+    "clientVersion": {
+      "value": "0.162.1",
+      "checkedAt": 1791947787818
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "5ca0c7279cd86b7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a5bd94a2554dfdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3700870e9729a9ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "b9071ca512f52a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "绪论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "绪论"
+            }
+          },
+          {
+            "id": "d26be9eea46bb6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "栈与队列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "栈与队列"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4510b89d0d6de2cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "736dc17680ca029c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b801351839ac9b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "83439d65a0b7ae8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "05f9a4d9f414eab4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.70001220703125
+  },
+  "right": {
+    "id": "7bdd9221f31d54bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a23096c411f37765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ffa1b99d1ab6b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "线性表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "de60505503eb8bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "线性表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bbe65ac1e76b2bbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bd68cd2dd1165094",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9ad7ab84c50bdde4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "线性表.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "0e9f354030294360",
+            "type": "leaf",
+            "state": {
+              "type": "ochatting-view",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Chatting with AI"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "chatting-with-ai:Open Chatting with AI": false
+    }
+  },
+  "active": "d26be9eea46bb6cd",
+  "lastOpenFiles": [
+    "线性表.md",
+    "栈与队列.md",
+    "绪论.md",
+    "SequentialList.cpp（线性表）.md",
+    "Code/占位.md",
+    "Code/output/������ʵ��.exe",
+    "Code/output",
+    "Code/SequentialList.cpp",
+    "Code/SinglyLinkedList.cpp",
+    "Code"
+  ]
+}
