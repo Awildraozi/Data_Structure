@@ -30,8 +30,8 @@ typedef struct Stack{
     //清除当前栈
     void Push(int e);
     //插入新元素
-    void Pop();
-    //退出新元素
+    int Pop();
+    //弹出新元素
 }Stack;
 
 inline void Stack::Initzstack(){
@@ -69,13 +69,15 @@ inline void Stack::Push(int e){
     stacklen++;
 }
 
-inline void Stack::Pop(){
+inline int Stack::Pop(){
     if(!top)
         return;
     StackNode* temp = top;
     top = top->previous;
     if(top == nullptr)
         base = nullptr;
+    int temp_v = temp->data;
     delete(temp);
     stacklen--;
+    return temp_v;
 }
