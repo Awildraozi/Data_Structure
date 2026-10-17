@@ -22,8 +22,8 @@ typedef struct Stack{
     Stack(const Stack&) = delete;
     Stack& operator=(const Stack&) = delete;
 
-    // 初始化为空栈；保留原参数以兼容旧调用，也允许不传参数。
-    void Initzstack(int e = 0);
+    void Initzstack();
+    // 初始化为空栈
     int StackLen();
     //返回当前栈的元素个数
     void ClearStack();
@@ -34,7 +34,7 @@ typedef struct Stack{
     //退出新元素
 }Stack;
 
-inline void Stack::Initzstack(int /*e*/){
+inline void Stack::Initzstack(){
     // [内存修复 4] 重新初始化前释放旧节点，不能直接置空指针丢失整条链。
     ClearStack();
 }
