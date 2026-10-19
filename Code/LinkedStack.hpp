@@ -71,7 +71,7 @@ inline void Stack::Push(int e){
 
 inline int Stack::Pop(){
     if(!top)
-        return;
+        return -1;
     StackNode* temp = top;
     top = top->previous;
     if(top == nullptr)
