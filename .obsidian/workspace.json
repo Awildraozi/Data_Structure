@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "chatting-with-ai:Open Chatting with AI": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -192,13 +193,21 @@
   },
   "active": "4988b14c3c66e697",
   "lastOpenFiles": [
+    "Figures/Chapter5/Figure5.19.png",
+    "Figures/Chapter5/ea22d2c7-0803-4189-a5e6-62652e4459a5.png",
+    "Figures/Chapter5/Figure5.6.png",
+    "Figures/Chapter5/Figure5.5.png",
+    "Figures/Chapter5/Figure5.1.png",
+    "Figures/Chapter5/Figure5.24.png",
+    "Figures/Chapter5",
+    "Figures/新建文件夹",
+    "Figures/Figure5.24.png",
+    "Figures/8d442250-fe02-4e8d-a348-9d9f1f72cffc.png",
     "栈与队列.md",
     "树.md",
     "Figures/Figure5.5.png",
     "Figures/dd1a1007-d835-4760-b0e5-90dd60fdacbc.png",
     "Figures/Figure5.6.png",
-    "Figures/Figure5.1.png",
-    "Figures/a2b8088b-3f40-4310-9281-05d562ec8619.png",
     "Figures",
     "新建文件夹",
     "线性表.md",
@@ -209,8 +218,6 @@
     "Code/Night_Dancer.cpp",
     "Code/output/NumberSystemConversion.exe",
     "Code/NumberSystemConversion.cpp",
-    "Code/Conversion.cpp",
-    "Code/LinkedQueue.hpp",
     "SequentialList.cpp（线性表）.md",
     "Code/占位.md"
   ]
